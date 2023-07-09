@@ -8,6 +8,7 @@ Design schemas for a blog application which will have
 
 Each article can have fields :-
 
+
 - title
 - description
 - tags
@@ -30,6 +31,7 @@ Each user can have fields:-
 - age
 
 - Design all the schemas and their associated models and export it.
+
 - design in such a way that, they should be associated.
 
 For example:-
